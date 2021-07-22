@@ -1,0 +1,4 @@
+Django==1.11.29
+django-haystack==2.8.1
+requests==2.21.0
+
